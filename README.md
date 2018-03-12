@@ -10,14 +10,6 @@
 ```bash
 sudo apt-get install python-pip
 ```
-3. Install flask
-```bash
-sudo pip install Flask
-```
-4. cd into the proper directory, your terminal should look like this:
-```bash
-user@pc:/somedirectory/DevilChat/
-```
-5. Follow instructions from guide here: [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+3. Follow instructions from guide here: [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-You can ignore the part about the virtual environment and just go ahead and install all Flask plugins and such using sudo.
+
